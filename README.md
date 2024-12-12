@@ -24,14 +24,19 @@ Modelos:
 
 Modelos de Clasificiación:
 
-1. DecisionTree(DecisionTreeClassifier)
-2. RandomForest(RandomForestClassifier)
-3. SupportVectorMachine(SVC)
+1. DecisionTree
+2. RandomForest
+3. SupportVectorMachine
 
-Modelos de Redes Neuronales:
+Código:
 
-1. Red Neuronal con 3 capas ocultas
-2. Red Neuronal con 6 capas ocultas
-3. Red Neuronal con 10 capas ocultas:
+https://colab.research.google.com/drive/1zpXdSjpWMsnAOVLpXefT_L3XVsxCszdO?usp=sharing
+
+Video:
+
+https://youtu.be/Rp5O58HhOmE
+
+
+
 
 
