@@ -36,7 +36,6 @@ Video:
 
 https://youtu.be/Rp5O58HhOmE
 
+Repositorio:
 
-
-
-
+https://github.com/Lunaistaa/Proyecto-Inteligencia-Artificial
